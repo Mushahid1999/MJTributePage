@@ -8,5 +8,7 @@ This is a small tribute webpage project I created to honor Michael Jordan
 ## How to View
 * Download the project and open the MJindex.html file in your browser
 * Alternatively, check out the screenshot below for a preview.
+* ![TrubutePageProjectPic](https://github.com/user-attachments/assets/3347e608-e1be-4f19-8111-4091190dd8de)
+
 ## Screenrecording
 Additional screenrecording video file is uploaded that shows the webpage
